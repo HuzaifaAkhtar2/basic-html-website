@@ -1,9 +1,10 @@
 # Basic HTML Website
 ## Goal
-Create a basic website using HTML. Focus on using correct HTML tags and structure.
+I created a basic website using HTML. Focusing on using correct HTML tags and structure.
 ## Requirements
-- [x] Pages: Home, Projects, Articles, Contact
-- [x] Navigation bar with links to each page, at the top of each page
-- [x] Structure the content in a way that makes adding styles easy
-- [x] Add SEO meta tags
+- [] Pages: Home, Projects, Articles, Contact
+- [] Semantically correct HTML structure.
+- [] Multiple pages with a navigation bar
+- [] SEO meta tags in the head of each page.
+- [] Contact page should have a form with fields like name, email, message etc.
 ## <a href="https://roadmap.sh/projects/basic-html-website">Roadmap Project URL</a>
