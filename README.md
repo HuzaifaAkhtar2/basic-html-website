@@ -16,4 +16,4 @@ In this project, I was required to create a simple HTML only website with multip
 - [x] SEO meta tags in the head of each page.
 - [x] Contact page should have a form with fields like name, email, message etc.
 
-## <a href="https://roadmap.sh/projects/basic-html-website">Roadmap Project URL</a>
+## <a href="https://roadmap.sh/projects/basic-html-website">Project URL</a>
